@@ -1,0 +1,6 @@
+{
+  "name": "Logya High School Enterprise Management System",
+  "description": "Enterprise School Management System (SMS) for Logya High School, Afar Regional State, Ethiopia. Featuring multi-role portals (Admin, Teacher, Student, Parent), attendance tracking, gradebook, finance, digital learning, online exam engine, library, timetable generator, and multi-language support (English, Amharic, Afar).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
